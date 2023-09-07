@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "Ankit verma",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Amit verma",
+      "author": "typicode"
+    }
+  ]
+}
